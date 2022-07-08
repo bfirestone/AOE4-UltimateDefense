@@ -1,0 +1,45 @@
+<instance description="" template="resource_type_info">
+	<uniqueid name="pbgid" value="107418" />
+	<group name="resource_type_bag">
+		<group name="modifier_types">
+			<enum name="player_rate" value="" />
+			<enum name="player_upkeep" value="" />
+			<enum name="player_max_cap" value="" />
+			<enum name="entity_cost" value="" />
+			<enum name="entity_contained_amount" value="" />
+			<enum name="entity_harvest_rate" value="" />
+			<enum name="squad_cost" value="" />
+			<enum name="squad_rate" value="" />
+			<enum name="upgrade_cost" value="" />
+			<enum name="ability_cost" value="" />
+			<enum name="entity_carry_capacity" value="" />
+			<enum name="entity_drop_off_time" value="" />
+			<enum name="entity_production_cost" value="" />
+			<enum name="player_trade_rate" value="" />
+			<enum name="entity_upgrade_production_cost" value="" />
+			<enum name="player_rate_cap" value="" />
+			<enum name="entity_harvest_efficiency" value="" />
+			<enum name="player_min_cap" value="" />
+			<enum name="entity_regrowth_time" value="" />
+			<enum name="entity_rate" value="" />
+			<enum name="entity_drop_off_amount" value="" />
+			<enum name="entity_upkeep_rate" value="" />
+			<enum name="squad_upkeep_rate" value="" />
+		</group>
+		<string name="lua_enum_string" value="RT_Popcap" />
+		<enum name="resource_type" value="popcap" />
+		<float name="heuristic_weight" value="0" />
+		<group name="ui">
+			<locstring name="name" value="0" />
+			<locstring name="desc" value="0" />
+			<file name="kicker_texture" value="" />
+			<file name="minimap_icon_texture" value="" />
+			<colour name="resource_point_default_color" value="*" />
+			<file name="icon_primary" value="resources\resource_popcap_icon" />
+			<file name="icon_insufficient" value="resources\resource_popcap_icon_insufficient" />
+			<bool name="is_hidden" value="False" />
+			<bool name="is_common" value="True" />
+		</group>
+		<enum name="num_workers" value="" />
+	</group>
+</instance>
