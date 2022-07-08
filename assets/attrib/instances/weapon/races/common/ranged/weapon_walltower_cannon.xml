@@ -174,8 +174,8 @@
 			<bool name="persistent_cooldownticks" value="False" />
 		</group>
 		<group name="damage">
-			<float name="max" value="85" />
-			<float name="min" value="85" />
+			<float name="max" value="130" />
+			<float name="min" value="130" />
 			<enum name="damage_type" value="True Damage" />
 			<bool name="allow_overkill" value="False" />
 			<list name="on_penetrated_state_trees">
@@ -244,7 +244,7 @@
 			</template_reference>
 		</group>
 		<group name="range">
-			<float name="max" value="36" overrideParent="True" />
+			<float name="max" value="45" overrideParent="True" />
 			<float name="min" value="0" />
 			<group name="distance">
 				<float name="near" value="-1" />
@@ -252,7 +252,7 @@
 				<float name="mid" value="-1" />
 			</group>
 			<float name="max_height" value="-1" />
-			<float name="max_animation_angle_distance" value="38" />
+			<float name="max_animation_angle_distance" value="45" />
 		</group>
 		<group name="reload">
 			<group name="duration">
