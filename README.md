@@ -4,7 +4,7 @@
 * Walls:
     * Stone HP increased 10x (most races this means 30k hp)
     * Palisade HP increased 7x (most races this means 10500 hp)
-    * Adding cannons back to wall towers
+    * Adding cannons back to towers
 * Keep:
     * base keep HP increased 10x (most races this means 15k hp)
 * Outpost:
