@@ -280,7 +280,7 @@
 					<float name="popcap" value="0" />
 					<float name="command" value="0" />
 					<float name="food" value="0" />
-					<float name="wood" value="5" />
+					<float name="wood" value="8" overrideParent="True" />
 					<float name="stone" value="0" />
 					<float name="gold" value="0" />
 					<float name="militia_hre" value="0" />
