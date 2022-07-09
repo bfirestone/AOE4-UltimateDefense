@@ -595,7 +595,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades" overrideParent="True">
-				<instance_reference name="upgrade" value="upgrade\races\common\research\upgrade_tower_cannon" overrideParent="True" />
+				<instance_reference name="upgrade" value="upgrade\races\common\research\upgrade_tower_cannon" mod="6f20ec44d3834818a4a2bc78bae3c5d9" overrideParent="True" />
 			</list>
 			<int name="max_queue_size_override" value="-1" />
 			<state_tree_node name="production_item_completed_openingbranch" value="" />
@@ -936,5 +936,5 @@
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="199627" />
-	<instance_reference name="parent_pbg" value="ebps\races\core\buildings\building_defense_tower" />
+	<instance_reference name="parent_pbg" value="ebps\races\core\buildings\building_defense_tower" mod="6f20ec44d3834818a4a2bc78bae3c5d9" />
 </instance>

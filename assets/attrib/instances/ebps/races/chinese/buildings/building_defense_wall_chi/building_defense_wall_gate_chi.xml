@@ -462,7 +462,7 @@
 			</list>
 			<enum name="facing" value="into_cell" />
 			<template_reference name="placement_style" value="options\ebpextensions\hexmapext\placement_styles\placement_primary_fence_replacer">
-				<instance_reference name="blueprint_to_replace" value="ebps\races\chinese\buildings\building_defense_wall_chi\building_defense_wall_chi" overrideParent="True" />
+				<instance_reference name="blueprint_to_replace" value="ebps\races\chinese\buildings\building_defense_wall_chi\building_defense_wall_chi" mod="6f20ec44d3834818a4a2bc78bae3c5d9" overrideParent="True" />
 				<bool name="can_replace_structures_under_construction" value="True" />
 				<template_reference name="permitted_replacement_option" value="options\ebpextensions\hexmapext\permitted_replacement_options\any_structure_can_replace">
 					<enum name="ownership_type" value="self" />
@@ -719,5 +719,5 @@
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="144660" />
-	<instance_reference name="parent_pbg" value="ebps\races\core\buildings\building_defense_wall_gate" />
+	<instance_reference name="parent_pbg" value="ebps\races\core\buildings\building_defense_wall_gate" mod="6f20ec44d3834818a4a2bc78bae3c5d9" />
 </instance>

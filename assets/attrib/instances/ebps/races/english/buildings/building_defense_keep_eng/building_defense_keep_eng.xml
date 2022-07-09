@@ -3152,5 +3152,5 @@
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="166243" />
-	<instance_reference name="parent_pbg" value="ebps\races\core\buildings\building_defense_keep" />
+	<instance_reference name="parent_pbg" value="ebps\races\core\buildings\building_defense_keep" mod="6f20ec44d3834818a4a2bc78bae3c5d9" />
 </instance>
