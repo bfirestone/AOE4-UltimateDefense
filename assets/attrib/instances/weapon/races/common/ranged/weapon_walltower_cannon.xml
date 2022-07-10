@@ -239,7 +239,7 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectiles\projectile_shot_cannon_tower" />
+			<instance_reference name="projectile" value="ebps\projectiles\projectile_shot_cannon_tower" mod="6f20ec44d3834818a4a2bc78bae3c5d9" />
 			<template_reference name="terrain_elevation_option" value="options\none">
 			</template_reference>
 		</group>
