@@ -548,7 +548,7 @@
 										<string name="parent_rigidbody_target_name" value="" />
 										<enum name="game_object_attachment_type" value="scenegraph" />
 									</template_reference>
-									<instance_reference name="ebp" value="ebps\races\core\weapons\wpn_range_keep_springald" />
+									<instance_reference name="ebp" value="ebps\races\core\weapons\wpn_range_keep_springald" mod="6f20ec44d3834818a4a2bc78bae3c5d9" />
 									<group name="attachment_flags">
 										<bool name="sim_only" value="False" />
 										<bool name="no_pathfinding" value="False" />
