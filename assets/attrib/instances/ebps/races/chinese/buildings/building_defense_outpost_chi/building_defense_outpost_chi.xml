@@ -310,7 +310,7 @@
 			<list name="standard_upgrades">
 				<instance_reference name="upgrade" value="upgrade\races\chinese\research\upgrade_outpost_handcannonslits_chi" overrideParent="True" />
 				<instance_reference name="upgrade" value="upgrade\races\common\research\upgrade_outpost_springald" />
-				<instance_reference name="upgrade" value="upgrade\races\common\research\upgrade_outpost_cannon" />
+				<instance_reference name="upgrade" value="upgrade\races\common\research\upgrade_outpost_cannon" mod="6f20ec44d3834818a4a2bc78bae3c5d9" />
 				<instance_reference name="upgrade" value="upgrade\races\common\research\upgrade_outpost_stone" />
 			</list>
 			<int name="max_queue_size_override" value="-1" />
